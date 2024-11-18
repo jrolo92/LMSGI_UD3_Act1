@@ -1,0 +1,168 @@
+<root xmlns:a="GeneroDelAutor"
+xmlns:l="GeneroLiterario">
+
+<libreria>
+
+    <libro id="1">
+        <titulo>El hombre que confundió a su mujer con un sombrero</titulo>
+        <autores>
+            <autor>
+                <nombre>Oliver</nombre>
+                <apellido1>Wolf</apellido1>
+                <apellido2>Sacks</apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>No ficción/Relato de casos clínicos</l:genero>
+        <editorial>Anagrama</editorial>
+        <ISBN>9788433973382</ISBN>
+        <fechaPublicacion>1985</fechaPublicacion>
+    </libro>
+
+    <libro id="2">
+        <titulo>El principito</titulo>
+        <autores>
+            <autor>
+                <nombre>Antoine</nombre>
+                <apellido1>de Saint-Exupery</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Novela</l:genero>
+        <editorial>Salamandra</editorial>
+        <ISBN>9788498381498</ISBN>
+        <fechaPublicacion>1943</fechaPublicacion>
+    </libro>
+
+    <libro id="3">
+        <titulo>Platero y yo</titulo>
+        <autores>
+            <autor>
+                <nombre>Juan</nombre>
+                <apellido1>Ramón</apellido1>
+                <apellido2>Jiménez</apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Novela de ficción</l:genero>
+        <editorial>Espasa</editorial>
+        <ISBN>9788423918584</ISBN>
+        <fechaPublicacion>1914</fechaPublicacion>
+    </libro>
+
+    <libro id="4">
+        <titulo>Jurassic Park</titulo>
+        <autores>
+            <autor>
+                <nombre>John Michael</nombre>
+                <apellido1>Crichton</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Ciencia ficción</l:genero>
+        <editorial>De bolsillo</editorial>
+        <ISBN>9788466342711</ISBN>
+        <fechaPublicacion>1990</fechaPublicacion>
+    </libro>
+
+    <libro id="5">
+        <titulo>Un mundo feliz</titulo>
+        <autores>
+            <autor>
+                <nombre>Aldus leonard</nombre>
+                <apellido1>Huxley</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Ciencia ficción</l:genero>
+        <editorial>Catedra</editorial>
+        <ISBN>9788437631370</ISBN>
+        <fechaPublicacion>1932</fechaPublicacion>
+    </libro>
+
+    <libro id="6">
+        <titulo>Rebelión en la granja</titulo>
+        <autores>
+            <autor>
+                <nombre>Eric</nombre>
+                <apellido1>Arthur</apellido1>
+                <apellido2>Blair</apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Novela</l:genero>
+        <editorial>Debolsillo</editorial>
+        <ISBN>9788499890951</ISBN>
+        <fechaPublicacion>1945</fechaPublicacion>
+    </libro>
+
+    <libro id="7">
+        <titulo>Canción de hielo y fuego: Choque de reyes</titulo>
+        <autores>
+            <autor>
+                <nombre>George Raymond Richard</nombre>
+                <apellido1>Martin</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Ciencia ficción</l:genero>
+        <editorial>Gigamesh</editorial>
+        <ISBN>8496208923</ISBN>
+        <fechaPublicacion>1998</fechaPublicacion>
+    </libro>
+
+    <libro id="8">
+        <titulo>Diario</titulo>
+        <autores>
+            <autor>
+                <nombre>Ana </nombre>
+                <apellido1>Frank</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Femenino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>No ficción</l:genero>
+        <editorial>Longman</editorial>
+        <ISBN>9782245267356</ISBN>
+        <fechaPublicacion>1942</fechaPublicacion>
+    </libro>
+
+    <libro id="9">
+        <titulo>¿Sueñan los androides con ovejas eléctricas?</titulo>
+        <autores>
+            <autor>
+                <nombre>Phillip Kindred</nombre>
+                <apellido1>Dick</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Ciencia ficción/ cyberpunk</l:genero>
+        <editorial>Edhasa</editorial>
+        <ISBN>9788435010733</ISBN>
+        <fechaPublicacion>1968</fechaPublicacion>
+    </libro>
+
+    <libro id="10">
+        <titulo>La historia interminable</titulo>
+        <autores>
+            <autor>
+                <nombre>Michael</nombre>
+                <apellido1>Ende</apellido1>
+                <apellido2></apellido2>
+                <a:genero>Masculino</a:genero>
+            </autor>
+        </autores>
+        <l:genero>Novela fantástica</l:genero>
+        <editorial>Alfaguara</editorial>
+        <ISBN>9788420471549</ISBN>
+        <fechaPublicacion>1979</fechaPublicacion>
+    </libro>
+
+</libreria>
+
+</root>
